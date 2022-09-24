@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoodTrucks Nearby</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="txt_no_data_found">No Food Trucks available at this time</string>
+</resources>
